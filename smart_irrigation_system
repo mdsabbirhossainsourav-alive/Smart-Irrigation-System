@@ -1,0 +1,23 @@
+int sensor = A1;
+int relay = 5;
+void setup() 
+{
+  pinMode(relay, OUTPUT);
+  Serial.begin(9600);
+}
+void loop() 
+{
+  int value = analogRead(sensor);
+  Serial.println(value);
+  if(value > 600) 
+  {
+    digitalWrite(relay, LOW);     
+    Serial.println("Soil Dry - Pump ON");
+  } 
+  else 
+  {
+    digitalWrite(relay, HIGH);
+    Serial.println("Soil Wet - Pump OFF");
+  }
+  delay(1000);
+}
