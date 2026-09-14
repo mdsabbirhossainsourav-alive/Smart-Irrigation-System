@@ -13,7 +13,38 @@ The main goal of this project is to **save water, reduce manual work, and provid
 *  Reduces water wastage
 *  Low-cost and easy to build
 *  Can work without continuous human interaction
+  
+## Project Images
 
+### 1. Smart Irrigation System
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-1.jpg)
+
+### 2. Project Introduction
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-2.jpg)
+
+### 3. Project Objectives
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-3.jpg)
+
+### 4. Project Components/Materials
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-4.jpg)
+
+### 5. Project Working Principle
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-5.jpg)
+
+### 6. Project Implementation & Demonstration
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-6.jpg)
+
+### 7. Project Learning Outcomes
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-7.jpg)
+
+### 8. Project Applications & Future Scope
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-8.jpg)
+
+### 9. Project Challenges & Solutions
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-9.jpg)
+
+### 10. Project Question
+![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-10.jpg)
 ## Components Required
 
 | Component            |    Quantity |
@@ -94,41 +125,7 @@ The system can be upgraded with:
 * Temperature and humidity sensor
 * Web dashboard
 * Solar power
-
 ---
-
-## Project Images
-
-### 1. Smart Irrigation System
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-1.jpg)
-
-### 2. Project Introduction
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-2.jpg)
-
-### 3. Project Objectives
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-3.jpg)
-
-### 4. Project Components/Materials
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-4.jpg)
-
-### 5. Project Working Principle
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-5.jpg)
-
-### 6. Project Implementation & Demonstration
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-6.jpg)
-
-### 7. Project Learning Outcomes
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-7.jpg)
-
-### 8. Project Applications & Future Scope
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-8.jpg)
-
-### 9. Project Challenges & Solutions
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-9.jpg)
-
-### 10. Project Question
-![image alt](https://github.com/mdsabbirhossainsourav-alive/Smart-Irrigation-System/blob/main/image-10.jpg)
-
 ## Technologies Used
 
 * **Arduino**
